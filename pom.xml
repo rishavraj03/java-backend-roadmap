@@ -17,7 +17,8 @@
     </properties>
 
     <modules>
-        <!-- phase modules will be added here as you create them -->
+        <!-- phase modules will be added here as there are created-->
+        <module>phase-0-setup</module>
     </modules>
 
 </project>
